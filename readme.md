@@ -1,6 +1,6 @@
 Exemplo de docker-compose para o localstack.
 
-Um post explicando o funcionamento está disponível 
+Um post explicando o funcionamento está disponível em https://hebertrfreitas.github.io/posts/localstack/
 
 
 
